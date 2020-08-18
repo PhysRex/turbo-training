@@ -1,5 +1,7 @@
 # Turbo Training: Web Development
 
+Intermediate learners -> **[start here](classes/week-1/README.md)**
+
 ## Purpose & Goal
 This course covers all the fundamentals required to become a full-stack web developer. 
 
